@@ -1,0 +1,90 @@
+---
+title: 'TAXA DE CÂMBIO </br> (AULA 09)'
+subtitle: 'ADM03F - Macroeconomia'
+author: 'Autor: Victor Valerio'
+date: 'Última atualização: `r format(Sys.Date(),"%d-%m-%Y")`'
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+
+
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+
+
+library(xaringanthemer)
+
+
+style_mono_light(base_color = '#23395b')
+
+
+```
+
+
+```{r , echo=FALSE}
+ 
+
+xaringanExtra::use_scribble()
+
+
+xaringanExtra::use_search(show_icon = TRUE)
+
+
+```
+
+## TÓPICOS ABORDADOS
+
+</br>
+
+- [**TAXA DE CÂMBIO NOMINAL**](#nominal)
+
+</br>
+
+- [**TAXA DE CÂMBIO REAL**](#real)
+
+
+
+
+---
+class: inverse, center, middle 
+name: nominal
+
+## TAXA DE CÂMBIO NOMINAL
+
+
+
+
+---
+<div style="text-align: justify">
+
+## CONCEITOS
+
+</br>
+
+- 
+
+
+---
+class: inverse, center, middle 
+name: real
+
+## TAXA DE CÂMBIO REAL
+
+
+
+
+---
+<div style="text-align: justify">
+
+## CONCEITOS
+
+</br>
+
+- 
